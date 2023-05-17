@@ -3,15 +3,15 @@
   "packages": [
     {
       "name": "_fe_analyzer_shared",
-      "rootUri": "file:///Users/ilasmakov/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-47.0.0",
+      "rootUri": "file:///Users/ilasmakov/.pub-cache/hosted/pub.dev/_fe_analyzer_shared-60.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.17"
     },
     {
       "name": "analyzer",
-      "rootUri": "file:///Users/ilasmakov/.pub-cache/hosted/pub.dev/analyzer-4.7.0",
+      "rootUri": "file:///Users/ilasmakov/.pub-cache/hosted/pub.dev/analyzer-5.12.0",
       "packageUri": "lib/",
-      "languageVersion": "2.17"
+      "languageVersion": "2.19"
     },
     {
       "name": "args",
@@ -39,9 +39,9 @@
     },
     {
       "name": "build_config",
-      "rootUri": "file:///Users/ilasmakov/.pub-cache/hosted/pub.dev/build_config-1.0.0",
+      "rootUri": "file:///Users/ilasmakov/.pub-cache/hosted/pub.dev/build_config-1.1.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.14"
     },
     {
       "name": "build_daemon",
@@ -57,7 +57,7 @@
     },
     {
       "name": "build_runner",
-      "rootUri": "file:///Users/ilasmakov/.pub-cache/hosted/pub.dev/build_runner-2.1.11",
+      "rootUri": "file:///Users/ilasmakov/.pub-cache/hosted/pub.dev/build_runner-2.2.1",
       "packageUri": "lib/",
       "languageVersion": "2.14"
     },
@@ -105,9 +105,9 @@
     },
     {
       "name": "collection",
-      "rootUri": "file:///Users/ilasmakov/.pub-cache/hosted/pub.dev/collection-1.15.0",
+      "rootUri": "file:///Users/ilasmakov/.pub-cache/hosted/pub.dev/collection-1.17.2",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.18"
     },
     {
       "name": "convert",
@@ -207,15 +207,15 @@
     },
     {
       "name": "js",
-      "rootUri": "file:///Users/ilasmakov/.pub-cache/hosted/pub.dev/js-0.6.3",
+      "rootUri": "file:///Users/ilasmakov/.pub-cache/hosted/pub.dev/js-0.6.7",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.19"
     },
     {
       "name": "json_annotation",
-      "rootUri": "file:///Users/ilasmakov/.pub-cache/hosted/pub.dev/json_annotation-4.0.0",
+      "rootUri": "file:///Users/ilasmakov/.pub-cache/hosted/pub.dev/json_annotation-4.8.1",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.19"
     },
     {
       "name": "logging",
@@ -363,21 +363,21 @@
     },
     {
       "name": "test",
-      "rootUri": "file:///Users/ilasmakov/.pub-cache/hosted/pub.dev/test-1.21.4",
+      "rootUri": "file:///Users/ilasmakov/.pub-cache/hosted/pub.dev/test-1.23.1",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.18"
     },
     {
       "name": "test_api",
-      "rootUri": "file:///Users/ilasmakov/.pub-cache/hosted/pub.dev/test_api-0.4.12",
+      "rootUri": "file:///Users/ilasmakov/.pub-cache/hosted/pub.dev/test_api-0.4.18",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "2.18"
     },
     {
       "name": "test_core",
-      "rootUri": "file:///Users/ilasmakov/.pub-cache/hosted/pub.dev/test_core-0.4.16",
+      "rootUri": "file:///Users/ilasmakov/.pub-cache/hosted/pub.dev/test_core-0.4.24",
       "packageUri": "lib/",
-      "languageVersion": "2.14"
+      "languageVersion": "2.18"
     },
     {
       "name": "timing",
@@ -428,7 +428,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-05-17T11:40:58.285424Z",
+  "generated": "2023-05-17T11:43:32.929245Z",
   "generator": "pub",
   "generatorVersion": "2.19.6"
 }
