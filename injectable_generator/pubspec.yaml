@@ -14,8 +14,7 @@ dependencies:
   analyzer: ^4.0.0
   code_builder: ^4.1.0
   dart_style: ^2.0.3
-  injectable:
-       ^1.5.3
+  injectable: ^2.1.1
 #     path: ../injectable
   collection: ^1.15.0
 dev_dependencies:
